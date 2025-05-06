@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luiz Blanco
+#  Luiz Blanco
 
 **`Estudante Front-End`**
 
